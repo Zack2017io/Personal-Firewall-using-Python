@@ -1,0 +1,421 @@
+[2025-06-27 14:42:18] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:18] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:18] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:18] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:18] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:18] Allowed: Ether / IP / UDP 192.168.1.172:50677 > 106.72.31.37:24605 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / Dot1Q / IP / UDP 106.72.31.37:24605 > 192.168.1.172:50677 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:19] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https PA / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / Dot1Q / IP / UDP 106.72.31.37:24605 > 192.168.1.172:50677 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / UDP 192.168.1.172:50677 > 106.72.31.37:24605 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / UDP 192.168.1.172:63002 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:63002 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / TCP 18.138.68.204:https > 192.168.1.172:4015 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https A | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / UDP 192.168.1.172:50677 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:20] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:50677 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:50677 > 106.72.31.37:24605 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / TCP 192.168.1.172:4821 > 57.144.139.32:https PA / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:21] Allowed: Ether / IP / TCP 57.144.139.32:https > 192.168.1.172:4821 A | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:52057 / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:42:22] Allowed: Ether / IP / UDP 192.168.1.172:52057 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:27] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:49191 > 172.217.170.163:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 172.217.170.163:https > 192.168.1.172:49191 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:28] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 192.168.1.172:64953 > 172.253.124.139:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:29] Allowed: Ether / IP / UDP 172.253.124.139:https > 192.168.1.172:64953 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:49437 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:49437 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 45.135.129.232:2191 > 192.168.1.172:5722 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 192.168.1.172:5722 > 45.135.129.232:2191 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 45.135.129.232:2191 > 192.168.1.172:5722 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 192.168.1.172:5722 > 45.135.129.232:2191 A | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 18.138.68.204:https > 192.168.1.172:4015 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https A | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:30] Allowed: Ether / IP / TCP 45.135.129.232:2191 > 192.168.1.172:5722 A | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:31] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:32] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / TCP 192.168.1.172:6835 > 3.222.211.185:https A / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / TCP 3.222.211.185:https > 192.168.1.172:6835 A | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / TCP 104.16.102.112:https > 192.168.1.172:4005 PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / TCP 192.168.1.172:4005 > 104.16.102.112:https PA / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:33] Allowed: Ether / IP / TCP 104.16.102.112:https > 192.168.1.172:4005 A | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 192.168.1.172:63002 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:34] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:63002 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:35] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:35] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:35] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:35] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:35] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / IP / TCP 192.168.1.172:4069 > 142.250.9.188:5228 A / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:36] Allowed: Ether / IP / UDP 192.168.1.172:54552 > 219.91.178.191:27154 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / Dot1Q / IP / UDP 219.91.178.191:27154 > 192.168.1.172:54552 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / IP / UDP 192.168.1.172:59827 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / IP / TCP 142.250.9.188:5228 > 192.168.1.172:4069 A | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:59827 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:37] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:51166 > 113.173.32.113:59642 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / Dot1Q / IP / UDP 113.173.32.113:59642 > 192.168.1.172:51166 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:38] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 14:54:39] Allowed: Ether / IP / UDP 192.168.1.172:56629 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 14:54:39] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:56629 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:09] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 2.17.250.27:https > 192.168.1.172:7255 FPA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:7218 > 3.175.179.16:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 3.175.179.16:https > 192.168.1.172:7218 A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / UDP 192.168.1.172:49437 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:49437 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 18.138.68.204:https > 192.168.1.172:4015 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:10] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7308 > 3.175.179.17:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 3.175.179.17:https > 192.168.1.172:7308 A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 104.16.102.112:https > 192.168.1.172:4005 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:4005 > 104.16.102.112:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 104.16.102.112:https > 192.168.1.172:4005 A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 140.82.113.22:https > 192.168.1.172:7303 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7303 > 140.82.113.22:https A | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:11] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https S | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https S | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 SA | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 SA | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:12] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 192.168.1.172:63002 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:63002 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 A / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7218 > 3.175.179.16:https FA | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7318 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7318 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 192.168.1.172:7319 > 52.168.117.174:https A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / TCP 52.168.117.174:https > 192.168.1.172:7319 A | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:13] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:14] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:14] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:15] Allowed: Ether / IP / TCP 2.17.250.27:https > 192.168.1.172:7255 FPA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:16] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:16] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:16] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:18] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:18] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / IP / UDP 192.168.1.172:60860 > 172.217.170.202:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / IP / UDP 172.217.170.202:https > 192.168.1.172:60860 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / IP / TCP 192.168.1.172:7310 > 149.154.175.50:https FPA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:19] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / TCP 192.168.1.172:7311 > 149.154.175.50:http FPA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 192.168.1.172:49437 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / TCP 18.138.68.204:https > 192.168.1.172:4015 A | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / TCP 18.138.68.204:https > 192.168.1.172:4015 PA / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:49437 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / TCP 192.168.1.172:4015 > 18.138.68.204:https A | Reason: Rule Passed
+[2025-06-27 15:15:20] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:21] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:22] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:22] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:22] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:22] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / TCP 192.168.1.172:7218 > 3.175.179.16:https RA | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 192.168.1.172:63002 > 74.125.250.129:19302 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 74.125.250.129:19302 > 192.168.1.172:63002 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 104.18.41.41:https > 192.168.1.172:60989 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:23] Allowed: Ether / IP / UDP 192.168.1.172:60103 > 183.83.52.28:65273 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:24] Allowed: Ether / Dot1Q / IP / UDP 183.83.52.28:65273 > 192.168.1.172:60103 / Raw | Reason: Rule Passed
+[2025-06-27 15:15:25] Allowed: Ether / IP / UDP 192.168.1.172:60989 > 104.18.41.41:https / Raw | Reason: Rule Passed
